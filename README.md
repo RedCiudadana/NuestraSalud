@@ -1,4 +1,10 @@
-# NuestraSalud
+<p align="center">
+    <a href="https://github.com/RedCiudadana/NuestraSalud" target="_blank">
+        <img src="https://raw.githubusercontent.com/RedCiudadana/NuestraSalud/master/public/logo-brand.png" height="100px">
+    </a>
+    <br>
+</p>
+
 [![Build Status](https://travis-ci.com/RedCiudadana/NuestraSalud.svg?branch=master)](https://travis-ci.com/RedCiudadana/NuestraSalud)
 
 Es una replica del proyecto https://github.com/RedCiudadana/MiSalud pero utilizando Eleventy (SSG), por ahora la primera prueba de Eleventy para Red Ciudadana.
