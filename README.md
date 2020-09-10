@@ -6,6 +6,7 @@
 </p>
 
 [![Build Status](https://travis-ci.com/RedCiudadana/NuestraSalud.svg?branch=master)](https://travis-ci.com/RedCiudadana/NuestraSalud)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aa930d88-3b19-4921-8ed7-566c50cb99b9/deploy-status)](https://app.netlify.com/sites/mystifying-bose-17d440/deploys)
 
 Es una replica del proyecto https://github.com/RedCiudadana/MiSalud pero utilizando Eleventy (SSG), por ahora la primera prueba de Eleventy para Red Ciudadana.
 
