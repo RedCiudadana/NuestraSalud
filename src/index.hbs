@@ -37,16 +37,15 @@ eleventyNavigation:
             </tr>
           </thead>
           <tbody>
-            {{#each institution as |hospital|}}
+            {{#each collections.hospital as |hospital|}}
               <tr>
                 <td>
-                  {{hospital.nombre}}
+                  {{hospital.data.hospital.nombre}}
                 </td>
                 <td class="text-center">
-                  {{!-- <LinkTo class="btn btn-secondary px-5" @route="perfil" @models={{array "hospitales" hospital.id}}>
+                  <a class="btn btn-secondary px-5" href="{{hospital.url}}">
                     Ver
-                  </LinkTo> --}}
-                  Ver
+                  </a>
                 </td>
               </tr>
             {{/each}}
